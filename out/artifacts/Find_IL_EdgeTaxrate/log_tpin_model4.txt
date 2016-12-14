@@ -1,0 +1,25 @@
+Compute TaxIndicators Finishing!
+the pattern3 number of month 2 is 4
+the pattern3 number of month 3 is 8
+the pattern3 number of month 4 is 9
+the pattern3 number of month 5 is 6
+the pattern3 number of month 6 is 23
+the pattern3 number of month 7 is 9
+the pattern3 number of month 8 is 17
+the pattern3 number of month 9 is 16
+the pattern3 number of month 10 is 12
+the pattern3 number of month 11 is 21
+the pattern3 number of month 12 is 31
+Add TaxIndicators to Patterns Finishing!
+month 2 save csv file finished!
+month 3 save csv file finished!
+month 4 save csv file finished!
+month 5 save csv file finished!
+month 6 save csv file finished!
+month 7 save csv file finished!
+month 8 save csv file finished!
+month 9 save csv file finished!
+month 10 save csv file finished!
+month 11 save csv file finished!
+month 12 save csv file finished!
+Patterns TaxIndicators Analyze Finishing!

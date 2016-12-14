@@ -1,0 +1,11 @@
+find pattern1 and pattern3 intersect count:0
+find pattern1 and pattern3 intersect count:2
+find pattern1 and pattern3 intersect count:3
+find pattern1 and pattern3 intersect count:2
+find pattern1 and pattern3 intersect count:6
+find pattern1 and pattern3 intersect count:5
+find pattern1 and pattern3 intersect count:5
+find pattern1 and pattern3 intersect count:4
+find pattern1 and pattern3 intersect count:5
+find pattern1 and pattern3 intersect count:7
+find pattern1 and pattern3 intersect count:12

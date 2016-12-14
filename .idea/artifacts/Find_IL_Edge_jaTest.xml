@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Find_IL_Edge:jaTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/Find_IL_Edge_jaTest</output-path>
+    <root id="archive" name="Find_IL_Edge.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/test/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Find_IL_Edge" />
+    </root>
+  </artifact>
+</component>
