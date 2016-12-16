@@ -36,7 +36,8 @@ class EdgeAttr(var w_control:Double,
   def isAntecedent(weight:Double): Boolean = {
     if(this.is_IL)  return false
 //    val result = (this.w_trade == 0.0 && this.w_control >= weight) || (this.w_trade == 0.0 && this.w_tz >= weight)
-    val result= (this.w_control >= weight || this.w_tz >= weight)
+    //annotation of david:严格的，当weight取值为0.0时，允许等号将导致交易边被 count in
+    val result= (this.w_control > weight || this.w_tz > weight)
     result
   }
 

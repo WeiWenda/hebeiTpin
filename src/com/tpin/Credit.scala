@@ -97,7 +97,7 @@ object Credit{
     val graph = GetFromCsv(sc)
 
     val rankvalue = ShortestPath(sc,graph)
-    main_top_500.printGraph(rankvalue)
+//    main_top_500.printGraph(rankvalue)
 
     sc.stop()
   }
